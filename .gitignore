@@ -45,3 +45,11 @@ exports/
 tmp/
 
 # Keep archival HTML, Markdown, images, and PDFs tracked intentionally.
+
+# Local files, credentials and generated caches
+_site/
+!.env.sample
+!.env.template
+id_rsa
+id_ed25519
+.aws/

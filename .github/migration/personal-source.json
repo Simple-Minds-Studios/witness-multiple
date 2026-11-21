@@ -1,0 +1,68 @@
+{
+  "source_repository": "Bartron773/witness-multiple",
+  "source_default_sha": "bc8bc497b2449f5fbc81641163e6725c62e068fb",
+  "organization_sha_before_audit": "9097c6131f67db58a20b3ee06a3b9b443eeacca1",
+  "common_ancestor": "bc8bc497b2449f5fbc81641163e6725c62e068fb",
+  "source_description": "A new approach, the Cross-Model Witness Archive, preserves separate witness accounts from AI systems to create a polyphonic record of patterns, contradictions, and continuity.",
+  "source_homepage": "https://bartron773.github.io/witness-multiple/",
+  "preserved_branches": [
+    "archive/personal/the-scar-room-05",
+    "archive/personal/the-standing-room-06"
+  ],
+  "source_branch_map": [
+    {
+      "source_branch": "main",
+      "sha": "bc8bc497b2449f5fbc81641163e6725c62e068fb",
+      "preserved_in": "organization main ancestry"
+    },
+    {
+      "source_branch": "the-scar-room-05",
+      "sha": "c596f53fc98f1189148dbb6d26484acbec05dbec",
+      "preserved_in": "archive/personal/the-scar-room-05"
+    },
+    {
+      "source_branch": "the-standing-room-06",
+      "sha": "723ceb9703972900fa17666b119d925e8046db7d",
+      "preserved_in": "archive/personal/the-standing-room-06"
+    }
+  ],
+  "source_tags": [],
+  "issues_and_pull_requests": [
+    {
+      "number": 2,
+      "title": ".md add file",
+      "body": null,
+      "state": "closed",
+      "html_url": "https://github.com/Bartron773/witness-multiple/pull/2",
+      "created_at": "2026-08-12T06:36:54Z",
+      "updated_at": "2026-08-12T06:38:29Z",
+      "closed_at": "2026-08-12T06:37:07Z",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Bartron773/witness-multiple/pulls/2",
+        "html_url": "https://github.com/Bartron773/witness-multiple/pull/2",
+        "diff_url": "https://github.com/Bartron773/witness-multiple/pull/2.diff",
+        "patch_url": "https://github.com/Bartron773/witness-multiple/pull/2.patch",
+        "merged_at": "2026-08-12T06:37:07Z"
+      }
+    },
+    {
+      "number": 1,
+      "title": "Add files via upload",
+      "body": "[Archive.zip](https://github.com/user-attachments/files/30969344/Archive.zip)\r\n",
+      "state": "closed",
+      "html_url": "https://github.com/Bartron773/witness-multiple/pull/1",
+      "created_at": "2026-08-12T06:24:34Z",
+      "updated_at": "2026-08-12T06:24:52Z",
+      "closed_at": "2026-08-12T06:24:52Z",
+      "pull_request": {
+        "url": "https://api.github.com/repos/Bartron773/witness-multiple/pulls/1",
+        "html_url": "https://github.com/Bartron773/witness-multiple/pull/1",
+        "diff_url": "https://github.com/Bartron773/witness-multiple/pull/1.diff",
+        "patch_url": "https://github.com/Bartron773/witness-multiple/pull/1.patch",
+        "merged_at": "2026-08-12T06:24:52Z"
+      }
+    }
+  ],
+  "releases": [],
+  "note": "Git history and branch tips are preserved under archive/personal/*. GitHub issue/PR numbers, review threads, check runs, permissions and secrets are not Git objects. Source records remain at their original URLs. No credential values have been copied."
+}

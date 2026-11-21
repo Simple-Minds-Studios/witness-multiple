@@ -112,3 +112,8 @@ Code and automation in this repository are released under the **MIT License**.
 Research writing, archival text, visual artifacts, and model-generated creative works are made available under **CC BY-NC 4.0** unless otherwise noted.
 
 See [`LICENSE`](./LICENSE) and [`CONTENT-LICENSE.md`](./CONTENT-LICENSE.md).
+
+
+## Public presentation
+
+https://simple-minds-studios.github.io/witness-multiple/
